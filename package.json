@@ -1,0 +1,20 @@
+{
+  "name": "webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "Simple Webpack Boilerplate to quickly start a project using with ES6,JSX and SASS ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Webpack",
+    "Es6",
+    "Jsx",
+    "Sass"
+  ],
+  "author": "Carlos Eduardo Papacidero",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.5.4"
+  }
+}

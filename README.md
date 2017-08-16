@@ -1,8 +1,8 @@
 # Webpack Boilerplate
 
-If you just want to quickly start your project and also use the novelties of ES6, React and also SASS to your projects without waste a lot o time configuring it, you are in the right place.
+If you just want to quickly start your project and also use the novelties of ES6, React and moreover use SASS to your projects without waste a lot o time configuring it, you came at the right place.
 
-We use Webpack to Bundle Scripts and Styles, and also Webpack Dev Server to create a simple live server.
+_We use Webpack to Bundle Scripts and Styles, and also Webpack Dev Server to create a simple live server._
 
 ## Getting Started
 
